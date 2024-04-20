@@ -1,1 +1,2 @@
-# multiple-audio-tracks-in-the-same-time
+# Only works with VLC
+Just drag the video file to the script directly
